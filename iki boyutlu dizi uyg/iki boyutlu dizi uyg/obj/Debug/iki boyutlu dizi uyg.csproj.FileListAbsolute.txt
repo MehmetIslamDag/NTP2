@@ -1,0 +1,10 @@
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki boyutlu dizi uyg.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki_boyutlu_dizi_uyg.Form1.resources
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki_boyutlu_dizi_uyg.Properties.Resources.resources
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki boyutlu dizi uyg.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki boyutlu dizi uyg.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\bin\Debug\iki boyutlu dizi uyg.exe.config
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\bin\Debug\iki boyutlu dizi uyg.exe
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\bin\Debug\iki boyutlu dizi uyg.pdb
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki boyutlu dizi uyg.exe
+C:\Users\burak\Desktop\ntp\iki boyutlu dizi uyg\iki boyutlu dizi uyg\obj\Debug\iki boyutlu dizi uyg.pdb

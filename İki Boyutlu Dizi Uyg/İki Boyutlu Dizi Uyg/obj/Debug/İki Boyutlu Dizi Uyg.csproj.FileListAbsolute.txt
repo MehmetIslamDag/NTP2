@@ -1,0 +1,10 @@
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki Boyutlu Dizi Uyg.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki_Boyutlu_Dizi_Uyg.Form1.resources
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki_Boyutlu_Dizi_Uyg.Properties.Resources.resources
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki Boyutlu Dizi Uyg.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki Boyutlu Dizi Uyg.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\bin\Debug\İki Boyutlu Dizi Uyg.exe.config
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\bin\Debug\İki Boyutlu Dizi Uyg.exe
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\bin\Debug\İki Boyutlu Dizi Uyg.pdb
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki Boyutlu Dizi Uyg.exe
+C:\Users\burak\Desktop\ntp\İki Boyutlu Dizi Uyg\İki Boyutlu Dizi Uyg\obj\Debug\İki Boyutlu Dizi Uyg.pdb
