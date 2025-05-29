@@ -1,0 +1,11 @@
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\bin\Debug\FormOzellikleri.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\bin\Debug\FormOzellikleri.exe
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\bin\Debug\FormOzellikleri.pdb
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.FormB.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.exe
+C:\Users\Lab2-01\Desktop\mehmet\FormOzellikleri\FormOzellikleri\obj\Debug\FormOzellikleri.pdb

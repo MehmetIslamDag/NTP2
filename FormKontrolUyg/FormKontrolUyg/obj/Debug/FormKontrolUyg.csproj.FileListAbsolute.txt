@@ -1,0 +1,11 @@
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\bin\Debug\FormKontrolUyg.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\bin\Debug\FormKontrolUyg.exe
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\bin\Debug\FormKontrolUyg.pdb
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.FormB.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.exe
+C:\Users\Lab2-01\Desktop\mehmet\FormKontrolUyg\FormKontrolUyg\obj\Debug\FormKontrolUyg.pdb

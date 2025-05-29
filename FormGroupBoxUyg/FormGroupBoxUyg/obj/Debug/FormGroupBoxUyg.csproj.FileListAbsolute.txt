@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\bin\Debug\FormGroupBoxUyg.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\bin\Debug\FormGroupBoxUyg.exe
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\bin\Debug\FormGroupBoxUyg.pdb
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.exe
+C:\Users\Lab2-01\Desktop\mehmet\FormGroupBoxUyg\FormGroupBoxUyg\obj\Debug\FormGroupBoxUyg.pdb
