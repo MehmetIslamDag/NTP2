@@ -1,0 +1,7 @@
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.exe
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\bin\Debug\SortedListKoleksiyonu.pdb
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.exe
+C:\Users\Lab2-01\Desktop\mehmet\SortedListKoleksiyonu\SortedListKoleksiyonu\obj\Debug\SortedListKoleksiyonu.pdb
