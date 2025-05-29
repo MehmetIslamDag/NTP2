@@ -1,0 +1,10 @@
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.csprojAssemblyReference.cache
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.Form1.resources
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.Properties.Resources.resources
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.csproj.GenerateResource.cache
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.csproj.CoreCompileInputs.cache
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\bin\Debug\StackMetinGeriAlma.exe.config
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\bin\Debug\StackMetinGeriAlma.exe
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\bin\Debug\StackMetinGeriAlma.pdb
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.exe
+C:\Users\pc08\Desktop\islam\StackMetinGeriAlma\StackMetinGeriAlma\obj\Debug\StackMetinGeriAlma.pdb

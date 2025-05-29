@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\bin\Debug\queueUygulaması.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\bin\Debug\queueUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\bin\Debug\queueUygulaması.pdb
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\queueUygulaması\queueUygulaması\obj\Debug\queueUygulaması.pdb

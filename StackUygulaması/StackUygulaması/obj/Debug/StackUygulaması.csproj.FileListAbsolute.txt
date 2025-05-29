@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\bin\Debug\StackUygulaması.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\bin\Debug\StackUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\bin\Debug\StackUygulaması.pdb
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\StackUygulaması\StackUygulaması\obj\Debug\StackUygulaması.pdb
