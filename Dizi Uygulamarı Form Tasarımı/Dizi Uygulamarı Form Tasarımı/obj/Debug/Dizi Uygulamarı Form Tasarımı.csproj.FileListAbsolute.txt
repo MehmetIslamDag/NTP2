@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\bin\Debug\Dizi Uygulamarı Form Tasarımı.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\bin\Debug\Dizi Uygulamarı Form Tasarımı.exe
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\bin\Debug\Dizi Uygulamarı Form Tasarımı.pdb
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi Uygulamarı Form Tasarımı.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi_Uygulamarı_Form_Tasarımı.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi_Uygulamarı_Form_Tasarımı.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi Uygulamarı Form Tasarımı.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi Uygulamarı Form Tasarımı.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi Uygulamarı Form Tasarımı.exe
+C:\Users\Lab2-01\Desktop\mehmet\Dizi Uygulamarı Form Tasarımı\Dizi Uygulamarı Form Tasarımı\obj\Debug\Dizi Uygulamarı Form Tasarımı.pdb

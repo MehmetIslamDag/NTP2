@@ -1,0 +1,10 @@
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\bin\Debug\ArrayList Uyg.exe.config
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\bin\Debug\ArrayList Uyg.exe
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\bin\Debug\ArrayList Uyg.pdb
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList Uyg.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList_Uyg.Form1.resources
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList_Uyg.Properties.Resources.resources
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList Uyg.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList Uyg.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList Uyg.exe
+C:\Users\burak\Desktop\ntp\ArrayList Uyg\ArrayList Uyg\obj\Debug\ArrayList Uyg.pdb

@@ -1,0 +1,10 @@
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\bin\Debug\dictionaryUygulaması.exe.config
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\bin\Debug\dictionaryUygulaması.exe
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\bin\Debug\dictionaryUygulaması.pdb
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.csprojAssemblyReference.cache
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.Form1.resources
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.Properties.Resources.resources
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.csproj.GenerateResource.cache
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.csproj.CoreCompileInputs.cache
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.exe
+c:\users\pc01\source\repos\dictionaryUygulaması\dictionaryUygulaması\obj\Debug\dictionaryUygulaması.pdb
