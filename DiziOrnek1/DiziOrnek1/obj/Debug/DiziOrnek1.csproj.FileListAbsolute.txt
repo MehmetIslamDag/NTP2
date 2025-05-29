@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.exe
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.pdb
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.exe
+C:\Users\Lab2-01\Desktop\mehmet\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.pdb
+F:\NTP\DiziOrnek1\DiziOrnek1\bin\Debug\DiziOrnek1.exe.config
+F:\NTP\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.exe
+F:\NTP\DiziOrnek1\DiziOrnek1\obj\Debug\DiziOrnek1.pdb

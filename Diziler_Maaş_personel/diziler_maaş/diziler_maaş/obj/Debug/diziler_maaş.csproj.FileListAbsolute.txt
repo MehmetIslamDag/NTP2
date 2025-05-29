@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\bin\Debug\diziler_maaş.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\bin\Debug\diziler_maaş.exe
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\bin\Debug\diziler_maaş.pdb
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.Form1.resources
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.Properties.Resources.resources
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.exe
+C:\Users\Lab2-01\Desktop\mehmet\diziler_maaş\diziler_maaş\obj\Debug\diziler_maaş.pdb
